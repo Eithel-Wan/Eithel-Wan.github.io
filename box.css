@@ -2,7 +2,7 @@
 {
     width:100%;
     display:flex;
-    justify-content: right;
+    justify-content: center;
 
 }
 
@@ -77,16 +77,6 @@
     margin: 20px;
 }
  
-* {
-    margin: 0;
-    padding: 0;
 
-}
-.box{
-    width: 400px;
-    height: 200px;
-    background-color: skyblue ;
-    text-align: center;
-}
 
  
